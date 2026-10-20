@@ -1,0 +1,41 @@
+/* Add styles for the class and ID selectors */
+
+
+body {
+background: cornsilk;
+color:red; 
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; 
+
+
+
+P {
+margin: 50px;
+padding: 28px;
+font-size: 18pt;
+border: 2px solid black
+}
+
+
+div {
+    border: 5px dashed blue; 
+    color: orange; 
+}
+
+
+.highlight {
+    background: yellow; 
+}
+
+#summary { 
+font-size: 24pt;
+font-style:italic;
+
+
+
+
+}
+
+
+
+
+}
